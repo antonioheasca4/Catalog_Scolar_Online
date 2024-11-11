@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Catalog_Scolar\obj\Debug\
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\
 Catalog_Scolar
 none
 false
 DEBUG;TRACE
-D:\Catalog_Scolar\App.xaml
-21982601894
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\App.xaml
+3-1795334661
 
-82144156346
-15873547375
-Register.xaml;UserControls\MyTextBox.xaml;
+91198271505
+152105063164
+Login.xaml;Register.xaml;UserControls\MyTextBox.xaml;
 
 False
 

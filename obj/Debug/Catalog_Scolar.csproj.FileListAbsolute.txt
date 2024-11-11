@@ -20,3 +20,27 @@ D:\Catalog_Scolar\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\Catalog_Scolar\obj\Debug\Catalog_Scolar_MarkupCompile.lref
 D:\Catalog_Scolar\obj\Debug\Register.g.cs
 D:\Catalog_Scolar\obj\Debug\Register.baml
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Catalog_Scolar.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\UserControls\MyTextBox.baml
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Login.g.cs
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Register.g.cs
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\UserControls\MyTextBox.g.cs
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Catalog_Scolar_MarkupCompile.cache
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Catalog_Scolar_MarkupCompile.lref
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Catalog_Scolar.exe
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Catalog_Scolar.pdb
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\bin\Debug\Catalog_Scolar.exe.config
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\bin\Debug\Catalog_Scolar.exe
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\bin\Debug\Catalog_Scolar.pdb
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\bin\Debug\FontAwesome.WPF.dll
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\bin\Debug\FontAwesome.WPF.xml
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\App.g.cs
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\App.baml
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Login.baml
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Register.baml
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Catalog_Scolar.g.resources
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Catalog_Scolar.Properties.Resources.resources
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Catalog_Scolar.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Catalog_Scolar.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\New folder\Catalog_Scolar_Online\obj\Debug\Catalog_.1448D952.Up2Date
